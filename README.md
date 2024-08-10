@@ -1,7 +1,6 @@
-# E-commerce Recommendation engine
+# EcomVision
 
-
-This repository contains the code for basic kind of E-commerce recommendation engine. By using the concept of TF-IDF and cosine similarity, we have built this recommendation engine.
+E-commerce AI Suite is an innovative project that leverages artificial intelligence to enhance and optimize the e-commerce experience. This repository contains various AI-driven tools and models aimed at improving product recommendations, customer segmentation, pricing strategies, and overall user experience on e-commerce platforms.
 
 ## Data
 For this project we are using [this dataset](https://www.kaggle.com/cclark/product-item-data/data). This dataset contains data from the 500 actual SKUs from an outdoor apparel brand's product catalog. 
@@ -16,5 +15,18 @@ We need the following dependencies.
 ## Usage
 You need to run the jupyter notebook `Basic_content_based_recommendation_system.ipynb`
 
-## credit
-The code of is this repository is inspired by the [Groveco's](https://github.com/groveco/content-engine) content based recommendation engine.
+
+## Authors
+
+- [@VarshiRevo](https://github.com/VarshiRevo)
+
+## Support
+
+For support,
+Email :
+varshigaps04.ai@gmail.com
+
+OR
+
+Join our Slack channel:
+https://join.slack.com/t/team-revoshared_invitezt-23bhnca2e-VEbQiDF8c~1hUYVjsNa06Q
