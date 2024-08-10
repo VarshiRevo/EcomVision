@@ -1,6 +1,6 @@
 # EcomVision
 
-E-commerce AI Suite is an innovative project that leverages artificial intelligence to enhance and optimize the e-commerce experience. This repository contains various AI-driven tools and models aimed at improving product recommendations, customer segmentation, pricing strategies, and overall user experience on e-commerce platforms.
+EcomVision is an innovative project that leverages artificial intelligence to enhance and optimize the e-commerce experience. This repository contains various AI-driven tools and models aimed at improving product recommendations, customer segmentation, pricing strategies, and overall user experience on e-commerce platforms.
 
 ## Data
 For this project we are using [this dataset](https://www.kaggle.com/cclark/product-item-data/data). This dataset contains data from the 500 actual SKUs from an outdoor apparel brand's product catalog. 
